@@ -1,0 +1,22 @@
+{
+  "name": "01",
+  "version": "1.0.0",
+  "description": "- Mampu mengubah tipe data number menjadi string, maupun sebaliknya\r - Mengerti logika `looping`\r - Mampu menggabungkan konsep `looping/iteration` dan `conditional` didalam sebuah masalah\r ## Directions\r Diberikan sebuah variabel `angka` bertipe number. Buatlah sebuah program yang dapat menentukan pasangan dua digit angka mana yang paling besar dari variabel `angka` yang diberikan.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "reporters": [
+      "default",
+      "hacktiv8-reporter"
+    ]
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hacktiv8-reporter": "^1.1.3",
+    "hacktiv8-restriction": "^1.0.7",
+    "jest": "^26.1.0"
+  }
+}
